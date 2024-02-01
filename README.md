@@ -8,4 +8,4 @@ The goal of this project was to learn the basic of lexing and parsing. Lexing an
 This was a learning project, sometimes going down to very low level programming, the idea was to write everything I needed from scratch and not rely on modern libraries (std or otherwise), and using only the stdio.h library to get our input from the console. 
 
 ## Building
-Build using build.bat in misc if you have Visual Studio 2017 installed. Otherwise use your own compiler and build config.
+Build using build.bat in misc if you have Visual Studio installed. Otherwise use your own compiler and build config.
